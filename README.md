@@ -1,7 +1,6 @@
-# radha_demo
 Testing the project locally
 Clone this project
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone 
 Setup the following environment variables - (.env) file
 DOMAIN= ""
 PORT=3000
