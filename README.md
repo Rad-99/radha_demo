@@ -1,5 +1,5 @@
 # radha_demo
-esting the project locally
+Testing the project locally
 Clone this project
 git clone https://github.com/verma-kunal/AWS-Session.git
 Setup the following environment variables - (.env) file
